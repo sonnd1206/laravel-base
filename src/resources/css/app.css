@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;Í
+
+html {
+    font-family: 'Yu Gothich UI', sans-serif;
+}
